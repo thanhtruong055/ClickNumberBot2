@@ -1,0 +1,1 @@
+// FloatingWidgetService.java placeholder
