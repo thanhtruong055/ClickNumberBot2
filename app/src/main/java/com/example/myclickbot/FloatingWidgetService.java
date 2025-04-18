@@ -1,1 +1,0 @@
-// Floating widget service implementation placeholder
